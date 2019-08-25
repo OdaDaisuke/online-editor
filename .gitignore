@@ -1,0 +1,7 @@
+server/docker_workspace/go
+server/docker_workspace/elixir
+server/docker_workspace/node
+server/docker_workspace/python
+
+.DS_Store
+*.swp
